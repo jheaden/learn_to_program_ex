@@ -1,3 +1,4 @@
+# I truncated this a bit
 b = 9
 
 while (b!=0)
